@@ -1,0 +1,12 @@
+* {
+    margin: auto;
+    padding: 0px;
+}
+div.quad {
+    text-align: center;
+    margin: 1%;
+    border: black solid 5px;
+    display: inline-block;
+    width: 30vh;
+    height: 30vh;
+}

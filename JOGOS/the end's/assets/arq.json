@@ -1,0 +1,11 @@
+{
+    "cena_01":{
+        "title":"primeira escolha",
+        "img_src":"./assets/img.png",
+        "txt_info":"opc 1 ou opc 2",
+        "choices":{
+            "cs01":"txt-01",
+            "cs02":"txt-02"
+        }
+    }
+}

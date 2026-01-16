@@ -1,0 +1,28 @@
+#home {
+    position: absolute;
+    background-image: url("../assets/fundo_menu.png");
+    background-size: 100%;
+}
+.bts_hm {
+    position: absolute;
+    border: 3px solid black;
+    font-size: 30px;
+}
+#bt_hm_01 {
+    width: 250px;
+    height: 50px;
+    left: 100px;
+    top: 100px;
+}
+#bt_hm_01:active {
+    animation: 1s bt_hm_active  infinite;
+}
+#bt_hm_02 {
+    width: 250px;
+    height: 50px;
+    left: 100px;
+    top: 300px;
+}
+#vd_hm {
+    position: absolute;
+}

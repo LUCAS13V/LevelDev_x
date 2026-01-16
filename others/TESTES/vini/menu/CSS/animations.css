@@ -1,0 +1,66 @@
+@keyframes slide{
+    
+    from {
+        width: 20%;
+        transform: translateX(-50%);
+    }
+    to{
+        width: 50%;
+        transform: translateX(0%);
+    }
+}
+
+@keyframes hover{
+    0% {
+        
+    }50% {
+    width: 55%;
+    color:red;
+    border-width: 6px;
+    border-color: red;
+    box-shadow: -50px 30px 30px black;
+    }
+    100%{}
+}
+button.btn:hover {
+    animation: hover 2s;
+}
+
+@keyframes title{
+    0%{
+        color: black;
+        text-shadow: 5px 5px 1px red;
+    }
+    50%{
+        color :red;
+        text-shadow: 5px 5px 1px  black;
+    }
+    100%{
+        color: black;
+        text-shadow: 5px 5px 1px red;
+    }
+}
+@keyframes falls_left{
+    0%{
+        top: 2%;
+        rotate: 0deg;
+    }
+    100%{
+        top: 100%;
+        rotate: -90deg;
+    }
+}
+@keyframes falls_right{
+    0%{
+        top: 2%;
+        rotate: 0deg;
+    }
+    100%{
+        top: 100%;
+        rotate: 90deg;
+    }
+}
+
+h1 {
+    animation: title 3s infinite;
+}

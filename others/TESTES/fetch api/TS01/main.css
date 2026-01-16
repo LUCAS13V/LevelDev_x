@@ -1,0 +1,11 @@
+*{
+    font-family: helvetica;
+}
+.hide {
+    display: none;
+}
+
+a , input[type="submit"]{
+    text-decoration: none;
+    cursor: pointer;
+}

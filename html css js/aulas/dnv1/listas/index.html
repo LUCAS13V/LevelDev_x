@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width initial-scale=1.0">
+        <title>listas</title>
+        <style>
+            h1 {
+                background: rgb(38, 64, 142);
+            }
+        </style>
+    </head>
+    <body style="background: rgb(90, 113, 139);">
+        <h1>listas</h1>
+        <hr>
+        <h2>lista ordenada</h2>
+        <h3>listas ordendas usam a tag ol</h3>
+        <p>as listas ordendas usam a tag <b>ol</b> que vem do <strong>odernid listem ou lista ordernada</strong></p>
+        <p>e os item delas sao marcados com a tag <b>li</b> que vem do <strong>item list ou item da lista</strong></p>
+        <hr>
+        <h2>exemplo de lista ordenada</h2>
+        <div>
+            <ol>
+                <li>item</li>
+                <li>item</li>
+                <li>item</li>
+                <!--o /li nao e mas obrigatorio ex abaixo-->
+                <li>item
+            </ol>
+        </div>
+        <h2>para fazer a lista comecar de um determinado nuemro coloque o parametro <strong>start="numero inicial</strong>"</h2>
+        <strong>lista cmc do numero 8</strong>
+        <div>
+            <ol start="8">
+                <li>item
+                <li>item
+                <li>item
+                <li>item
+            </ol>
+        </div>
+        <hr>
+        <h1>tipos de lista</h1>
+        <h2>type="1"</h2>
+        <h3>normal contagem numerica</h3>
+        <hr>
+        <h2>type="A"</h2>
+        <h3>contagem em ordem alfabetica maiscula para deixar a letra minuscula basta escrever em minusculo <strong>type="a"</strong></h3>
+        <hr>
+        <h2>type="i"</h2>
+        <h3>contagem em nuemros romanos<strong> a mesma funcao de masicula ou minuscula tbm se aplica ao tipo i</strong></h3>
+        <br>
+        <hr>
+        <h1>listas nao ordenadas</h1>
+        <h2>listas nao ordenadas usam a tag ul</h2>
+        <p>a tag <b>ul</b> <strong>vem de underned listem ou lista desordenada</strong></p>
+        <br>
+        nao sei ingles.
+        <hr>
+        filme e series daora
+        <ul>
+            <li>filmes
+                <ol>
+                    <li>chappie</li>
+                    <li>eu sou a lenda</li>
+                </ol>
+            <li>series
+                <ol>
+                    <li>charlott</li>
+                    <li>jujutsu kaisen</li>
+                    <li>radiant</li>
+                    <li>golden time</li>
+                </ol>
+            </ul>
+    </body>
+</html>
+https://errors.infinityfree.net/errors/403/
+RewriteEngine On
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:CF-Visitor} !{"scheme":"https"}
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]

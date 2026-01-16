@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    background: darkblue;
+    color: white;
+}
+#caramelo {
+    transform: translate(100%, 0);
+}
+#tapete {
+    transform: translate(25%, 0);
+}
+img {
+    position: absolute;
+}

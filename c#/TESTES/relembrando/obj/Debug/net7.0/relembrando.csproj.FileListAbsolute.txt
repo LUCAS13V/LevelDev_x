@@ -1,0 +1,15 @@
+E:\dev app program\c#\TESTES\relembrando\obj\Debug\net7.0\relembrando.csproj.AssemblyReference.cache
+E:\dev app program\c#\TESTES\relembrando\obj\Debug\net7.0\relembrando.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev app program\c#\TESTES\relembrando\obj\Debug\net7.0\relembrando.AssemblyInfoInputs.cache
+E:\dev app program\c#\TESTES\relembrando\obj\Debug\net7.0\relembrando.AssemblyInfo.cs
+E:\dev app program\c#\TESTES\relembrando\obj\Debug\net7.0\relembrando.csproj.CoreCompileInputs.cache
+E:\dev app program\c#\TESTES\relembrando\bin\Debug\net7.0\relembrando.exe
+E:\dev app program\c#\TESTES\relembrando\bin\Debug\net7.0\relembrando.deps.json
+E:\dev app program\c#\TESTES\relembrando\bin\Debug\net7.0\relembrando.runtimeconfig.json
+E:\dev app program\c#\TESTES\relembrando\bin\Debug\net7.0\relembrando.dll
+E:\dev app program\c#\TESTES\relembrando\bin\Debug\net7.0\relembrando.pdb
+E:\dev app program\c#\TESTES\relembrando\obj\Debug\net7.0\relembrando.dll
+E:\dev app program\c#\TESTES\relembrando\obj\Debug\net7.0\refint\relembrando.dll
+E:\dev app program\c#\TESTES\relembrando\obj\Debug\net7.0\relembrando.pdb
+E:\dev app program\c#\TESTES\relembrando\obj\Debug\net7.0\relembrando.genruntimeconfig.cache
+E:\dev app program\c#\TESTES\relembrando\obj\Debug\net7.0\ref\relembrando.dll

@@ -1,0 +1,17 @@
+@charset "UTF_8";
+
+body {
+    background: black;
+}
+#cv {
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: rgb(203, 203, 13);
+    
+}

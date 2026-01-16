@@ -1,0 +1,45 @@
+* {
+    font-family: sans-serif, monospace;
+    margin: auto;
+    padding: 0px;
+}
+p {
+   
+}
+h1 {
+    text-align: center;
+}
+body {
+    
+    background: linear-gradient(to bottom, rgb(31, 31, 165), rgb(21, 133, 185) );
+    min-height: 100vh;
+    position:sticky;
+}
+div.cub {
+    border-radius: 30px;
+    font-size: 25px;
+    margin: 10px;
+    padding: 5px;
+    border: solid black 5px;
+    display: inline-table;
+    width: 20%;
+    height: 20vh;
+    background: rgb(30, 7, 233);
+}
+img.img_cub {
+    border-radius: 30px;
+    border: solid black 5px;
+    width: 25vh;
+}
+button.btn_cub {
+    font-family: fantasy;
+    font-size: 50%;
+    padding: 2px;
+    border: solid black 3px;
+    border-radius: 8px;
+    width: 60%;
+}
+main {
+    text-align: center;
+}
+

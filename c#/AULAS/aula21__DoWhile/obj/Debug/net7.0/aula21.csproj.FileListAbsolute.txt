@@ -1,0 +1,15 @@
+E:\dev app program\c#\AULAS\aula21\bin\Debug\net7.0\aula21.exe
+E:\dev app program\c#\AULAS\aula21\bin\Debug\net7.0\aula21.deps.json
+E:\dev app program\c#\AULAS\aula21\bin\Debug\net7.0\aula21.runtimeconfig.json
+E:\dev app program\c#\AULAS\aula21\bin\Debug\net7.0\aula21.dll
+E:\dev app program\c#\AULAS\aula21\bin\Debug\net7.0\aula21.pdb
+E:\dev app program\c#\AULAS\aula21\obj\Debug\net7.0\aula21.csproj.AssemblyReference.cache
+E:\dev app program\c#\AULAS\aula21\obj\Debug\net7.0\aula21.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev app program\c#\AULAS\aula21\obj\Debug\net7.0\aula21.AssemblyInfoInputs.cache
+E:\dev app program\c#\AULAS\aula21\obj\Debug\net7.0\aula21.AssemblyInfo.cs
+E:\dev app program\c#\AULAS\aula21\obj\Debug\net7.0\aula21.csproj.CoreCompileInputs.cache
+E:\dev app program\c#\AULAS\aula21\obj\Debug\net7.0\aula21.dll
+E:\dev app program\c#\AULAS\aula21\obj\Debug\net7.0\refint\aula21.dll
+E:\dev app program\c#\AULAS\aula21\obj\Debug\net7.0\aula21.pdb
+E:\dev app program\c#\AULAS\aula21\obj\Debug\net7.0\aula21.genruntimeconfig.cache
+E:\dev app program\c#\AULAS\aula21\obj\Debug\net7.0\ref\aula21.dll

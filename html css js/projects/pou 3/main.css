@@ -1,0 +1,11 @@
+@charset "UTF-8";
+* {
+    margin-top: 2%;
+    text-align: center;
+}
+#cv {
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 10px;
+}
