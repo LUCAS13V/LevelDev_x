@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://192.168.100.46:5501/others/PROJETOS/myengine/",
+            "request": "launch",
+            "url": "http://192.168.100.46:5501/others/PROJETOS/myengine/"
+        }
+    ]
+}

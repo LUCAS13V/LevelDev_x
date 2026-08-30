@@ -1,0 +1,12 @@
+*{
+}
+main {
+    border:solid black 3px;
+    width: 600px;
+    height: 600px;
+}
+div.player {
+    width: 10px;
+    height: 10px;
+    background-color: black;
+}

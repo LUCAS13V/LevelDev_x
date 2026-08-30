@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0%;
+    font-family: "Pixelify Sans";
+    image-rendering: pixelated;
+}
+body {
+    background-color: green;
+}
+#tela {
+    position: absolute; 
+    border: black solid 3px;
+    overflow: hidden;
+    background-color: white;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.scores {
+    position: relative;
+    border: black solid 2px;
+    margin: 2px;
+    width: 200px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}

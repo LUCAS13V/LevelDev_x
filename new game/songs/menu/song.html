@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Musica Menu</title>
+    <style>
+        * {
+            margin: 0%;
+            padding: 0%;
+        }
+        div.play {
+            text-shadow: 
+              
+                0 0 100px red
+            ;
+            color: white;
+            font-size: 100px;
+            display:block;
+            text-align: center;
+        }
+        h1 {
+           color: white;
+           
+        }
+        div.play  button{
+            background: black;
+            color: white;
+            border: 7px solid white;
+            border-radius: 50px;
+            padding-left: 300px;
+            padding-right: 300px;
+            height: 200px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body style="background: black;">
+    
+    <div>
+        <div class="play">
+            <audio src="./BeepBox-Song.wav"></audio>
+            <h1>Musica Menu</h1>
+            <img src="../icon-export.png" alt="icon" width="500pt">
+            <div>
+            <button id="0bt" class="play" onclick="buttonFx('click', 0)" onmouseleave="buttonFx('out', 0)" onmouseenter="buttonFx('in', 0)" style="font-size: 100px; width: 100px;">
+              <h3 style="transform: translateX(-45px); "> &#x25B7;</h3>
+            </button>
+            <button id="1bt" class="play" onclick="buttonFx('click', 1)" onmouseleave="buttonFx('out', 1)" onmouseenter="buttonFx('in', 1)" style="font-size: 100px; width: 100px;">
+              <h3 style="transform: translateX(-145px); ">editar</h3>
+            </button>
+            </div>
+        </div>
+    </div>
+    <script>
+        let link = "https://www.beepbox.co/#9n31s0k0l00e03t2ma7g0fj07r1i0o432T1v1u34f0q0x10n51d08AcFhB3Q01a5P9939E2b776T1v1u39f0qwx10l611d08A0F0B0Q38e0Pa610E3b8618626T1v1u27f0q0w10x4d03A0F2B6Q4190Pf640E2b777T2v1u15f10w4qw02d03w0E0b4h400000000h4g000000014i000000004h400000000p216AqqfIzEAFmNCzXoydd7OhV5Vulp7Aw9NWqfAOW3wM4OQQv9NZ1MszAyewzEduwzE8W2c00"
+        function buttonFx(type ,id=null){
+            var button = document.getElementById(id+"bt")
+            if (type == "in"){
+                button.style.width="800px"
+                button.style.height="250px"
+                button.style.fontSize="130px"
+                button.style.paddingLeft="390px"
+            }if (type == "out"){
+                button.style.width="0%"
+                button.style.height="200px"
+                button.style.fontSize="100px"
+                button.style.paddingLeft="300px"
+            }
+            if (type == "click"){
+                if (id == 0){
+                    document.querySelector("audio").play()
+                }
+                button.style.width="700px"
+                button.style.height="240px"
+                button.style.fontSize="130px"
+                button.style.paddingLeft="340px"
+                setTimeout(() => {
+                    buttonFx("in", id)
+                    if(id == 1){
+                        window.open(link, "_blank")
+                    }
+                }, 250)
+            }
+        }
+    </script>
+</body>
+</html>

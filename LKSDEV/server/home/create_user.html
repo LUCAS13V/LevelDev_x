@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>create user</title>
+    <style>
+        * {
+            padding: 0px;
+            margin: 0px;
+        }
+        .gender {
+            cursor:pointer;
+            
+        }
+        #form {
+            text-align: center;
+            margin-bottom: 100px;
+        }
+        input {
+            width: 300pt;
+            height: 30pt;
+            font-size: 20pt;
+        }
+        #send {
+           width: 300pt; 
+           height: 30pt;
+        }
+    </style>
+</head>
+<body>
+    <div id="form">
+        <li>
+            <ol>
+                <h1>nome</h1>
+                <input id="name" type="text">
+            </ol>
+            <ol>
+                <h1>senha</h1>
+                <input id="password" type="password">
+            </ol>
+            <ol style="font-size: 50px;">
+                🧢<input style="width: 50px;" type="checkbox" class="gender" id="">
+                🌸<input style="width: 50px;" type="checkbox" class="gender" id="">
+            </ol>
+            <ol>
+                <button id="send" onclick="send()">
+                    send
+                </button>
+            </ol>
+        </li>
+        <div id="manssage"></div>
+    </div>
+    <script defer>
+        const bt_send = document.getElementById("send")
+        const password = document.getElementById("password")
+        const name = document.getElementById("name")
+        console.log(name)
+        const gender = document.getElementsByClassName("gender")
+        function main(){
+            if(gender[0].checked==true && gender[1].checked==true){
+                gender[0].checked=false
+                gender[1].checked=false
+            }
+            requestAnimationFrame(main)
+        }
+        main()
+        function send(){
+            const data = {
+                name: name.value,
+                password: password.value,
+                gender: gender[0].checked==true? "man":  gender[1].checked==true? "woman": null,
+            }
+            console.log("ddenv ")
+            console.log(data)
+
+            async function sendForApi(url, dt){
+                const response = await fetch(url, {
+                    method: "POST",
+                    headers:{
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(dt)
+                })
+                console.log("dt "+response.status)
+                console.log(response)
+            }
+            const url = "http://127.0.0.1:3000"
+            sendForApi(url, data)
+        }
+    </script>
+</body>
+</html>

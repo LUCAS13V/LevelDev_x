@@ -1,0 +1,23 @@
+
+
+@keyframes bt_hm_carne {
+    0%{
+        rotate: 0deg;
+    }
+    25%{
+        rotate: 10deg;
+    }50%{
+        rotate: -10deg;
+    }75%{
+        rotate: 0deg;
+    }
+}
+@keyframes bt_hm_active {
+    0%{}
+    100%{
+        width: 240px;
+        height: 45px;
+        color: red;
+        border-color: red;
+    }
+}

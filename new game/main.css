@@ -1,0 +1,14 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    
+}
+@font-face {
+    font-family: "pixel";
+    src: url("./font/PixelifySans-VariableFont_wght.ttf");
+}
+body {
+    overflow: hidden;
+}
+canvas {
+}

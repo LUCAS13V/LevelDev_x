@@ -1,0 +1,15 @@
+E:\dev app program\c#\AULAS\aula25__Metado\bin\Debug\net7.0\aula25__Metado.exe
+E:\dev app program\c#\AULAS\aula25__Metado\bin\Debug\net7.0\aula25__Metado.deps.json
+E:\dev app program\c#\AULAS\aula25__Metado\bin\Debug\net7.0\aula25__Metado.runtimeconfig.json
+E:\dev app program\c#\AULAS\aula25__Metado\bin\Debug\net7.0\aula25__Metado.dll
+E:\dev app program\c#\AULAS\aula25__Metado\bin\Debug\net7.0\aula25__Metado.pdb
+E:\dev app program\c#\AULAS\aula25__Metado\obj\Debug\net7.0\aula25__Metado.csproj.AssemblyReference.cache
+E:\dev app program\c#\AULAS\aula25__Metado\obj\Debug\net7.0\aula25__Metado.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev app program\c#\AULAS\aula25__Metado\obj\Debug\net7.0\aula25__Metado.AssemblyInfoInputs.cache
+E:\dev app program\c#\AULAS\aula25__Metado\obj\Debug\net7.0\aula25__Metado.AssemblyInfo.cs
+E:\dev app program\c#\AULAS\aula25__Metado\obj\Debug\net7.0\aula25__Metado.csproj.CoreCompileInputs.cache
+E:\dev app program\c#\AULAS\aula25__Metado\obj\Debug\net7.0\aula25__Metado.dll
+E:\dev app program\c#\AULAS\aula25__Metado\obj\Debug\net7.0\refint\aula25__Metado.dll
+E:\dev app program\c#\AULAS\aula25__Metado\obj\Debug\net7.0\aula25__Metado.pdb
+E:\dev app program\c#\AULAS\aula25__Metado\obj\Debug\net7.0\aula25__Metado.genruntimeconfig.cache
+E:\dev app program\c#\AULAS\aula25__Metado\obj\Debug\net7.0\ref\aula25__Metado.dll

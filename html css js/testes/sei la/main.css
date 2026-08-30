@@ -1,0 +1,12 @@
+body {
+    background: #050505ff;
+    color: white;
+}
+h1 {
+    font-family: sans-serif, monospace;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: white;
+}

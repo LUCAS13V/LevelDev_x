@@ -1,0 +1,8 @@
+* {
+    background: rgb(35, 34, 34);
+}
+
+#cv {
+    border: 3px solid blue;
+    border-radius: 1em;
+}

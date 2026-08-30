@@ -1,0 +1,15 @@
+E:\dev app program\c#\TESTES\OpenApps\bin\Debug\net7.0\OpenApps.exe
+E:\dev app program\c#\TESTES\OpenApps\bin\Debug\net7.0\OpenApps.deps.json
+E:\dev app program\c#\TESTES\OpenApps\bin\Debug\net7.0\OpenApps.runtimeconfig.json
+E:\dev app program\c#\TESTES\OpenApps\bin\Debug\net7.0\OpenApps.dll
+E:\dev app program\c#\TESTES\OpenApps\bin\Debug\net7.0\OpenApps.pdb
+E:\dev app program\c#\TESTES\OpenApps\obj\Debug\net7.0\OpenApps.csproj.AssemblyReference.cache
+E:\dev app program\c#\TESTES\OpenApps\obj\Debug\net7.0\OpenApps.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev app program\c#\TESTES\OpenApps\obj\Debug\net7.0\OpenApps.AssemblyInfoInputs.cache
+E:\dev app program\c#\TESTES\OpenApps\obj\Debug\net7.0\OpenApps.AssemblyInfo.cs
+E:\dev app program\c#\TESTES\OpenApps\obj\Debug\net7.0\OpenApps.csproj.CoreCompileInputs.cache
+E:\dev app program\c#\TESTES\OpenApps\obj\Debug\net7.0\OpenApps.dll
+E:\dev app program\c#\TESTES\OpenApps\obj\Debug\net7.0\refint\OpenApps.dll
+E:\dev app program\c#\TESTES\OpenApps\obj\Debug\net7.0\OpenApps.pdb
+E:\dev app program\c#\TESTES\OpenApps\obj\Debug\net7.0\OpenApps.genruntimeconfig.cache
+E:\dev app program\c#\TESTES\OpenApps\obj\Debug\net7.0\ref\OpenApps.dll

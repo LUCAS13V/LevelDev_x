@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    text-align: center;
+}
+div.caixa {
+    border:black solid 1px;
+    width: 10%;
+    height: 90vh;
+    display: inline-block;
+    overflow:hidden ;
+}
+
+div#player {
+    position: absolute;
+    display: block;
+    border:black solid 3px;
+    background: yellow;
+    width: 5%;
+    height: 5%;
+    right: 0px;
+    left: 12%;
+    top: 90%;
+    bottom: 0px;
+}
+div.enimigo {
+    position: relative;
+    border:black solid 3px;
+    background: blue;
+    width: 30%;
+    height: 30px;
+    right: 0px;
+    left: 25%;
+    top: 0;
+    bottom: 0px;
+}

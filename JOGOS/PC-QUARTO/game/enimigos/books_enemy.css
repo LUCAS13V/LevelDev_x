@@ -1,0 +1,9 @@
+.enmgs {
+    position: absolute;
+    -border: blue solid 1px;
+    background-image: url("../assets/livro.png");
+    background-size: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}

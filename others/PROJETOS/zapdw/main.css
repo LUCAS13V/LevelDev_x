@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+input {
+    display: block;
+}
+
+#input_message {
+    position: fixed;
+    bottom: 0;
+    width: 80%;
+    height: 5%;
+    margin: 1%;
+    border: 10px #550000ff solid;
+    border-radius: 10px;
+    background: #00000050;
+    color: white;
+    font-size: 200%;
+}
+
+#message {
+    display:table;
+    border: 5px #550000ff solid;
+    margin:  10px;
+    padding: 5px;
+    border-radius: 20px;
+    font-size: 50px;
+}
+#text_message1 {
+    width: 300px;
+}

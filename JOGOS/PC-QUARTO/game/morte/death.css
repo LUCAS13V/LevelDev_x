@@ -1,0 +1,43 @@
+#death_01 {
+    position: absolute;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 15px;
+    text-align: center;
+}
+#bt_dt_01{
+    background-image: url("../assets/ui/botao_menu_red.png");
+    background-size: 90%;
+}
+button#bt_dt_01:active {
+    background-image: url("../assets/ui/botao_menu_white.png");
+}
+#bt_dt_02{
+    background-image: url("../assets/ui/botao_renacer_red.png");
+    background-size: 100%;
+}
+button#bt_dt_02:active {
+    background-image: url("../assets/ui/botao_renacer_white.png");
+}
+.bts_dt {
+    width: 70px;
+    height: 70px;
+    margin: 90px;
+    margin-top: 150px;
+    border: 2px solid rgb(255, 0, 0);
+    background-color: rgba(0, 0, 0, 0.689);
+    background-position: center center;
+    background-repeat: no-repeat;
+    box-shadow: 5px 5px black;
+}
+button.bts:active{
+    border-color: white;
+}
+
+#dt_txt {
+    text-shadow: 5px 5px black;
+    color: red;
+    margin-top: -300px;
+    font-size: 50px;
+    
+}

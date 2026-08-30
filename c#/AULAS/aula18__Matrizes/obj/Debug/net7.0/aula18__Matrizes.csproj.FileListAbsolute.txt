@@ -1,0 +1,15 @@
+E:\dev app program\c#\AULAS\aula18__Matrizes\obj\Debug\net7.0\aula18__Matrizes.csproj.AssemblyReference.cache
+E:\dev app program\c#\AULAS\aula18__Matrizes\obj\Debug\net7.0\aula18__Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev app program\c#\AULAS\aula18__Matrizes\obj\Debug\net7.0\aula18__Matrizes.AssemblyInfoInputs.cache
+E:\dev app program\c#\AULAS\aula18__Matrizes\obj\Debug\net7.0\aula18__Matrizes.AssemblyInfo.cs
+E:\dev app program\c#\AULAS\aula18__Matrizes\obj\Debug\net7.0\aula18__Matrizes.csproj.CoreCompileInputs.cache
+E:\dev app program\c#\AULAS\aula18__Matrizes\bin\Debug\net7.0\aula18__Matrizes.exe
+E:\dev app program\c#\AULAS\aula18__Matrizes\bin\Debug\net7.0\aula18__Matrizes.deps.json
+E:\dev app program\c#\AULAS\aula18__Matrizes\bin\Debug\net7.0\aula18__Matrizes.runtimeconfig.json
+E:\dev app program\c#\AULAS\aula18__Matrizes\bin\Debug\net7.0\aula18__Matrizes.dll
+E:\dev app program\c#\AULAS\aula18__Matrizes\bin\Debug\net7.0\aula18__Matrizes.pdb
+E:\dev app program\c#\AULAS\aula18__Matrizes\obj\Debug\net7.0\aula18__Matrizes.dll
+E:\dev app program\c#\AULAS\aula18__Matrizes\obj\Debug\net7.0\refint\aula18__Matrizes.dll
+E:\dev app program\c#\AULAS\aula18__Matrizes\obj\Debug\net7.0\aula18__Matrizes.pdb
+E:\dev app program\c#\AULAS\aula18__Matrizes\obj\Debug\net7.0\aula18__Matrizes.genruntimeconfig.cache
+E:\dev app program\c#\AULAS\aula18__Matrizes\obj\Debug\net7.0\ref\aula18__Matrizes.dll
